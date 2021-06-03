@@ -1,4 +1,4 @@
-# Welcome Folks
+# Welcome Folks, Stay on the bridge 🚀🚀
 # Salesforce Truck Booking Project: [Repo Link](https://github.com/Neooy/TruckBooking)
 
 Now that you’ve created a Salesforce Truck Booking project, what’s next? Here are some documentation resources to get you started.
